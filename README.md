@@ -13,6 +13,7 @@
 - Json
 - Networking
 - Design and UI
+- HIG Guidelines
 
 
 
