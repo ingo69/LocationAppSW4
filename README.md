@@ -7,6 +7,7 @@
     - current Location
     - current address
     
+- Swift 4
 - Threading
 - autolayout
 - StoryBoard 
