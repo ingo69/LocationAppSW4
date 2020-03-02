@@ -7,9 +7,13 @@
     - current Location
     - current address
     
-- StoryBoard Json
+- Threading
+- autolayout
+- StoryBoard 
+- Json
 - Networking
 - Design and UI
+
 
 
 ![](GeoTrekkerLaunch.jpg)
